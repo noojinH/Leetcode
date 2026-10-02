@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/noojinH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/noojinH/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/noojinH/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/noojinH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/noojinH/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/noojinH/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
