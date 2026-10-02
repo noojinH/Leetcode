@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/noojinH/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/noojinH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/noojinH/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/noojinH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/noojinH/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/noojinH/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/noojinH/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Greedy
