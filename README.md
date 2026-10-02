@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/noojinH/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/noojinH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/noojinH/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/noojinH/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@
 | [0015-3sum](https://github.com/noojinH/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/noojinH/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/noojinH/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/noojinH/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -37,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/noojinH/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/noojinH/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/noojinH/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/noojinH/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
