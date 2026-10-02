@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/noojinH/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/noojinH/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 | ------- |
 | [0015-3sum](https://github.com/noojinH/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/noojinH/Leetcode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
