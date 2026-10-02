@@ -14,6 +14,7 @@
 | [0347-top-k-frequent-elements](https://github.com/noojinH/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/noojinH/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/noojinH/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/noojinH/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
