@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/noojinH/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/noojinH/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/noojinH/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/noojinH/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/noojinH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/noojinH/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -84,9 +85,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/noojinH/Leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/noojinH/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/noojinH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
